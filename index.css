@@ -1,0 +1,77 @@
+ /* body{ 
+    top:0px;
+    left: 0px;
+    background-image: url('Coffee2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+     overflow: hidden;
+   
+} */
+
+
+ul{
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul li{
+    float: right;
+  
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 35px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+ul li a:hover{
+    background-color: rgb(236, 166, 126);
+}
+
+button{
+   position: relative;
+   top: 500px;
+   left: 550px;
+   padding: 15px;
+   background-color: rgb(204, 88, 21);
+   color: rgb(241, 236, 236);
+   cursor: pointer;
+   margin-left: 15px;
+}
+
+
+.main-heading{
+    position: relative;
+    top:0px;
+    left:0px;
+    text-align: center;
+    text-decoration: underline;
+    word-spacing: 10px;
+    font-size: 50px;
+    color: rgb(185, 70, 16);
+
+    /* background-color: burlywood; */
+    /* text-align: center;
+    margin-right: 200px; */
+}
+
+P{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(185, 70, 16);   
+    text-decoration: underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.coffeeimages{
+    width: 100%;
+
+
+}
